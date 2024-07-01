@@ -1,0 +1,24 @@
+,CHROM,POS,start_del,end_del,type,gene,sample_id,mutation_type,group,parallel,virus
+1,PA14 chromosome,4459793,4459793,4459793,point,fliF,PA14_ev_pop1_1,pa14_ev,wt_pop_1,TRUE,NA
+2,PA14 chromosome,4072428,4072428,4072428,point,fliP,PA14_ev_pop1_2,pa14_ev,wt_pop_1,TRUE,NA
+3,PA14 chromosome,4459793,4459793,4459793,point,fliF,PA14_ev_pop1_3,pa14_ev,wt_pop_1,TRUE,NA
+4,PA14 chromosome,4459793,4459793,4459793,point,fliF,PA14_ev_pop1_4,pa14_ev,wt_pop_1,TRUE,NA
+5,PA14 chromosome,4088064,4088064,4088064,point,lasR,PA14_ev_pop1_5,pa14_ev,wt_pop_1,TRUE,NA
+6,PA14 chromosome,4459793,4459793,4459793,point,fliF,PA14_ev_pop1_6,pa14_ev,wt_pop_1,TRUE,NA
+7,PA14 chromosome,5376474,5376474,5376474,point,pilY1,PA14_ev_pop2_1,pa14_ev,wt_pop_2,TRUE,NA
+8,PA14 chromosome,5376474,5376474,5376474,point,pilY1,PA14_ev_pop2_2,pa14_ev,wt_pop_2,TRUE,NA
+9,PA14 chromosome,4088064,4088064,4088064,point,lasR,PA14_ev_pop2_3,pa14_ev,wt_pop_2,TRUE,NA
+10,PA14 chromosome,5378668,5378668,5378668,point,pilY1,PA14_ev_pop2_3,pa14_ev,wt_pop_2,TRUE,NA
+11,PA14 chromosome,4088043,4088043,4088043,point,lasR,PA14_ev_pop2_4,pa14_ev,wt_pop_2,TRUE,NA
+12,PA14 chromosome,5376588,5376588,5376588,point,pilY1,PA14_ev_pop2_4,pa14_ev,wt_pop_2,TRUE,NA
+13,PA14 chromosome,4088064,4088064,4088064,point,lasR,PA14_ev_pop2_5,pa14_ev,wt_pop_2,TRUE,NA
+14,PA14 chromosome,5378668,5377966,5378668,deletion,pilY1,PA14_ev_pop2_5,pa14_ev,wt_pop_2,TRUE,NA
+15,PA14 chromosome,4088043,4088043,4088043,point,lasR,PA14_ev_pop2_6,pa14_ev,wt_pop_2,TRUE,NA
+16,PA14 chromosome,5376588,5376588,5376588,point,pilY1,PA14_ev_pop2_6,pa14_ev,wt_pop_2,TRUE,NA
+17,PA14 chromosome,4459793,4459793,4459793,point,fliF,PA14_ev_pop3_1,pa14_ev,wt_pop_3,TRUE,NA
+18,PA14 chromosome,4072428,4072428,4072428,point,fliP,PA14_ev_pop3_2,pa14_ev,wt_pop_3,TRUE,NA
+19,PA14 chromosome,4459793,4459793,4459793,point,fliF,PA14_ev_pop3_3,pa14_ev,wt_pop_3,TRUE,NA
+20,PA14 chromosome,-1,-1,-1,point,no mutations,PA14_ev_pop3_4,pa14_ev,wt_pop_3,TRUE,NA
+21,PA14 chromosome,4288779,4288779,4288779,point,C4 RNA,PA14_ev_pop3_5,pa14_ev,wt_pop_3,TRUE,NA
+22,PA14 chromosome,4288779,4288779,4288779,point,C4 RNA,PA14_ev_pop3_6,pa14_ev,wt_pop_3,TRUE,NA
+23,PA14 chromosome,4170934,4170934,4170934,point,MFS transporter,PA14_ev_pop3_2,pa14_ev,wt_pop_3,FALSE,NA

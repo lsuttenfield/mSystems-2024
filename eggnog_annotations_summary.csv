@@ -1,0 +1,521 @@
+"","type","Preferred_name","COG","COG_category","Description","count"
+"1","deletion","","function_unknown","S","PepSY-associated TM region",2
+"2","deletion","-","amino_acid_metabolism","E","GMC oxidoreductase",1
+"3","deletion","-","amino_acid_metabolism","E","LysE type translocator",1
+"4","deletion","-","carbohydrate_metabolism","G","Cupin domain",1
+"5","deletion","-","carbohydrate_metabolism","G","Major Facilitator Superfamily",2
+"6","deletion","-","carbohydrate_metabolism","G","pfkB family carbohydrate kinase",1
+"7","deletion","-","carbohydrate_metabolism","G","polysaccharide deacetylase",4
+"8","deletion","-","cell_wall_membrane_biogenesis","M","RHS Repeat",9
+"9","deletion","-","defense","V","Barrel-sandwich domain of CusB or HlyD membrane-fusion",5
+"10","deletion","-","energy","C","Cytochrome C oxidase, cbb3-type, subunit III",2
+"11","deletion","-","energy","C","Fumarate reductase flavoprotein C-term",1
+"12","deletion","-","energy","C","HEAT repeat",1
+"13","deletion","-","energy","C","Luciferase-like monooxygenase",3
+"14","deletion","-","energy","C","Putative MetA-pathway of phenol degradation",7
+"15","deletion","-","energy","C","Zinc-binding dehydrogenase",1
+"16","deletion","-","function_unknown","S","AFG1-like ATPase",3
+"17","deletion","-","function_unknown","S","Amidohydrolase family",3
+"18","deletion","-","function_unknown","S","Bacterial Type VI secretion, VC_A0110, EvfL, ImpJ, VasE",1
+"19","deletion","-","function_unknown","S","Domain of unknown function (DUF4280)",3
+"20","deletion","-","function_unknown","S","Domain of unknown function (DUF4946)",3
+"21","deletion","-","function_unknown","S","Fusaric acid resistance protein family",5
+"22","deletion","-","function_unknown","S","Gene 25-like lysozyme",3
+"23","deletion","-","function_unknown","S","ImcF-related N-terminal domain",3
+"24","deletion","-","function_unknown","S","ImpA, N-terminal, type VI secretion system",1
+"25","deletion","-","function_unknown","S","Lipoprotein",3
+"26","deletion","-","function_unknown","S","MORN repeat variant",4
+"27","deletion","-","function_unknown","S","Membrane",5
+"28","deletion","-","function_unknown","S","PepSY-associated TM region",5
+"29","deletion","-","function_unknown","S","Protein of unknown function (DUF1656)",2
+"30","deletion","-","function_unknown","S","Protein of unknown function (DUF861)",3
+"31","deletion","-","function_unknown","S","Protein of unknown function (DUF971)",1
+"32","deletion","-","function_unknown","S","Thiamine pyrophosphate-binding protein",6
+"33","deletion","-","function_unknown","S","transferase activity, transferring acyl groups",3
+"34","deletion","-","function_unknown","S","ybak prolyl-trna synthetase associated region",1
+"35","deletion","-","inorganic_ion_metabolism","P","(ABC) transporter",3
+"36","deletion","-","inorganic_ion_metabolism","P","ABC 3 transport family",6
+"37","deletion","-","inorganic_ion_metabolism","P","ATPases associated with a variety of cellular activities",1
+"38","deletion","-","inorganic_ion_metabolism","P","E1-E2 ATPase",4
+"39","deletion","-","inorganic_ion_metabolism","P","NMT1-like family",3
+"40","deletion","-","inorganic_ion_metabolism","P","PFAM extracellular solute-binding protein family 1",4
+"41","deletion","-","inorganic_ion_metabolism","P","Zinc-uptake complex component A periplasmic",1
+"42","deletion","-","inorganic_ion_metabolism","P","belongs to the Fur family",5
+"43","deletion","-","intracellular_transport","U","haemagglutination activity domain",3
+"44","deletion","-","lipid_metabolism","I","Acyl-CoA dehydrogenase, C-terminal domain",6
+"45","deletion","-","lipid_metabolism","I","acyl-CoA dehydrogenase",9
+"46","deletion","-","protein_modification_chaperones","O","Antioxidant protein with alkyl hydroperoxidase activity. Required for the reduction of the AhpC active site cysteine residues and for the regeneration of the AhpC enzyme activity",3
+"47","deletion","-","protein_modification_chaperones","O","COG0330 Membrane protease subunits stomatin prohibitin homologs",4
+"48","deletion","-","protein_modification_chaperones","O","Clp amino terminal domain, pathogenicity island component",4
+"49","deletion","-","protein_modification_chaperones","O","Peptidase family M48",2
+"50","deletion","-","protein_modification_chaperones","O","heat shock protein binding",3
+"51","deletion","-","secondary_metabolites","Q","AA-adenyl-dom amino acid adenylation domain protein",2
+"52","deletion","-","secondary_metabolites","Q","Belongs to the cytochrome P450 family",1
+"53","deletion","-","secondary_metabolites","Q","COG1020 Non-ribosomal peptide synthetase modules and related proteins",6
+"54","deletion","-","secondary_metabolites","Q","Gluconate 2-dehydrogenase subunit 3",1
+"55","deletion","-","secondary_metabolites","Q","Thioesterase domain",11
+"56","deletion","-","transcription","K","Acetyltransferase (GNAT) domain",1
+"57","deletion","-","transcription","K","AraC-like ligand binding domain",2
+"58","deletion","-","transcription","K","BRO family, N-terminal domain",6
+"59","deletion","-","transcription","K","Bacterial regulatory proteins, tetR family",2
+"60","deletion","-","transcription","K","Cupin",3
+"61","deletion","-","transcription","K","LysR substrate binding domain",27
+"62","deletion","-","transcription","K","UTRA",1
+"63","deletion","-","transcription","K","helix_turn_helix, Lux Regulon",4
+"64","deletion","-","transcription","K","helix_turn_helix, arabinose operon control protein",1
+"65","deletion","-","translation","J","Methyltransferase domain",3
+"66","deletion","adhB","energy","C","Cytochrome C oxidase, cbb3-type, subunit III",1
+"67","deletion","arsB","inorganic_ion_metabolism","P","Involved in arsenical resistance. Thought to form the channel of an arsenite pump",1
+"68","deletion","arsC","signal_transduction","T","Low molecular weight phosphatase family",1
+"69","deletion","arsH","function_unknown","S","NADPH-dependent FMN reductase",1
+"70","deletion","arsR","transcription","K","helix_turn_helix, Arsenical Resistance Operon Repressor",1
+"71","deletion","cc4","energy","C","Cytochrome C oxidase, cbb3-type, subunit III",1
+"72","deletion","chiC","carbohydrate_metabolism","G","Belongs to the glycosyl hydrolase 18 family",1
+"73","deletion","cmpB","inorganic_ion_metabolism","P","Nitrate ABC transporter",3
+"74","deletion","dinB","function_unknown","S","DinB family",1
+"75","deletion","dotU","function_unknown","S","Type VI secretion system protein DotU",3
+"76","deletion","dsbG","protein_modification_chaperones","O","Thioredoxin-like domain",1
+"77","deletion","DUF1656","function_unknown","S","Protein of unknown function (DUF1656)",3
+"78","deletion","DUF2231","function_unknown","S","Membrane",1
+"79","deletion","DUF4280","function_unknown","S","Domain of unknown function (DUF4280)",1
+"80","deletion","DUF4946","function_unknown","S","Domain of unknown function (DUF4946)",1
+"81","deletion","evpB","function_unknown","S","Type VI secretion protein, EvpB/VC_A0108, tail sheath",3
+"82","deletion","fes","inorganic_ion_metabolism","P","esterase",3
+"83","deletion","foxA","inorganic_ion_metabolism","P","Secretin and TonB N terminus short domain",3
+"84","deletion","foxI","transcription","K","ECF sigma factor",3
+"85","deletion","fpvA","cell_wall_membrane_biogenesis","M","receptor",6
+"86","deletion","fpvI","transcription","K","ECF sigma factor",5
+"87","deletion","ftsI","cell_wall_membrane_biogenesis","M","Catalyzes cross-linking of the peptidoglycan cell wall at the division septum",1
+"88","deletion","gapN","energy","C","Aldehyde dehydrogenase family",3
+"89","deletion","gcd","carbohydrate_metabolism","G","PQQ-like domain",1
+"90","deletion","gcvH","amino_acid_metabolism","E","The glycine cleavage system catalyzes the degradation of glycine. The H protein shuttles the methylamine group of glycine from the P protein to the T protein",3
+"91","deletion","gcvP","amino_acid_metabolism","E","The glycine cleavage system catalyzes the degradation of glycine. The P protein binds the alpha-amino group of glycine through its pyridoxal phosphate cofactor",3
+"92","deletion","gcvT","amino_acid_metabolism","E","glycine cleavage system",4
+"93","deletion","glpQ","energy","C","Glycerophosphoryl diester phosphodiesterase family",3
+"94","deletion","glyA3","amino_acid_metabolism","E","Catalyzes the reversible interconversion of serine and glycine with tetrahydrofolate (THF) serving as the one-carbon carrier. This reaction serves as the major source of one-carbon groups required for the biosynthesis of purines, thymidylate, methionine, and other important biomolecules. Also exhibits THF- independent aldolase activity toward beta-hydroxyamino acids, producing glycine and aldehydes, via a retro-aldol mechanism",3
+"95","deletion","gntK","carbohydrate_metabolism","G","Shikimate kinase",3
+"96","deletion","gntR","transcription","K","helix_turn _helix lactose operon repressor",3
+"97","deletion","gtdA","secondary_metabolites","Q","Gentisate 1,2-dioxygenase",2
+"98","deletion","HA62_15845","energy","C","4Fe-4S binding domain",1
+"99","deletion","hcp","function_unknown","S","Type VI secretion system effector, Hcp",3
+"100","deletion","hflC2","protein_modification_chaperones","O","HflC and HflK could regulate a protease",4
+"101","deletion","hflK2","protein_modification_chaperones","O","Membrane protease subunits, stomatin prohibitin homologs",4
+"102","deletion","impA","function_unknown","S","ImpA, N-terminal, type VI secretion system",2
+"103","deletion","iorA","energy","C","[2Fe-2S] binding domain",4
+"104","deletion","iorB","energy","C","Aldehyde oxidase and xanthine dehydrogenase, a/b hammerhead domain",4
+"105","deletion","kguE","carbohydrate_metabolism","G","Xylose isomerase domain protein TIM barrel",1
+"106","deletion","lldD","energy","C","Catalyzes the conversion of L-lactate to pyruvate. Is coupled to the respiratory chain",5
+"107","deletion","macB","defense","V","Part of the tripartite efflux system MacAB-TolC. MacB is a non-canonical ABC transporter that contains transmembrane domains (TMD), which form a pore in the inner membrane, and an ATP-binding domain (NBD), which is responsible for energy generation. Confers resistance against macrolides",5
+"108","deletion","maiA","carbohydrate_metabolism","G","maleylacetoacetate isomerase",2
+"109","deletion","mbtH","function_unknown","S","Antibiotic synthesis protein MbtH",6
+"110","deletion","metI","inorganic_ion_metabolism","P","Binding-protein-dependent transport system inner membrane component",3
+"111","deletion","metN","inorganic_ion_metabolism","P","Part of the ABC transporter complex MetNIQ involved in methionine import. Responsible for energy coupling to the transport system",3
+"112","deletion","metQ1","inorganic_ion_metabolism","P","NLPA lipoprotein",3
+"113","deletion","mexE","cell_wall_membrane_biogenesis","M","Belongs to the membrane fusion protein (MFP) (TC 8.A.1) family",1
+"114","deletion","mexF","intracellular_transport","U","Protein export membrane protein",1
+"115","deletion","mexT","transcription","K","LysR substrate binding domain",1
+"116","deletion","mhbB","secondary_metabolites","Q","Fumarylacetoacetate (FAA) hydrolase family",2
+"117","deletion","msuC","lipid_metabolism","I","Acyl-CoA dehydrogenase, C-terminal domain",3
+"118","deletion","msuE","function_unknown","S","NADPH-dependent FMN reductase",3
+"119","deletion","mtlD","carbohydrate_metabolism","G","Mannitol dehydrogenase Rossmann domain",3
+"120","deletion","mtlE","carbohydrate_metabolism","G","Bacterial extracellular solute-binding protein",3
+"121","deletion","mtlF","inorganic_ion_metabolism","P","Binding-protein-dependent transport system inner membrane component",3
+"122","deletion","mtlG","inorganic_ion_metabolism","P","Mannitol ABC transporter",3
+"123","deletion","mtlK","inorganic_ion_metabolism","P","ABC transporter",3
+"124","deletion","mtlZ","carbohydrate_metabolism","G","pfkB family carbohydrate kinase",3
+"125","deletion","nrtB","inorganic_ion_metabolism","P","Binding-protein-dependent transport system inner membrane component",1
+"126","deletion","nrtCD","inorganic_ion_metabolism","P","ATPase family associated with various cellular activities (AAA)",1
+"127","deletion","opmQ","cell_wall_membrane_biogenesis","M","Outer membrane efflux protein",5
+"128","deletion","oprB","cell_wall_membrane_biogenesis","M","Carbohydrate-selective porin, OprB family",1
+"129","deletion","oprD","function_unknown","S","outer membrane (Porin)",6
+"130","deletion","ordL","amino_acid_metabolism","E","FAD dependent oxidoreductase",2
+"131","deletion","pepSY","function_unknown","S","PepSY-associated TM region",2
+"132","deletion","ppk2","function_unknown","S","Polyphosphate kinase 2 (PPK2)",5
+"133","deletion","psaA","inorganic_ion_metabolism","P","Zinc-uptake complex component A periplasmic",6
+"134","deletion","ptxS","transcription","K","transcriptional regulator",1
+"135","deletion","pvdA","secondary_metabolites","Q","L-lysine 6-monooxygenase (NADPH-requiring)",5
+"136","deletion","pvdF","nucleotide_metabolism","F","N(5)-hydroxyornithine transformylase PvdF",6
+"137","deletion","pvdH","amino_acid_metabolism","E","Belongs to the class-III pyridoxal-phosphate-dependent aminotransferase family",6
+"138","deletion","pvdI","secondary_metabolites","Q","COG1020 Non-ribosomal peptide synthetase modules and related proteins",6
+"139","deletion","pvdI","secondary_metabolites","Q","Non-ribosomal peptide synthetase",6
+"140","deletion","pvdM","amino_acid_metabolism","E","Membrane dipeptidase (Peptidase family M19)",6
+"141","deletion","pvdN","amino_acid_metabolism","E","Aminotransferase class-V",6
+"142","deletion","pvdO","function_unknown","S","Sulfatase-modifying factor enzyme 1",6
+"143","deletion","pvdP","function_unknown","S","PvdJ PvdD PvdP-like protein",5
+"144","deletion","pvdQ","function_unknown","S","Penicillin amidase",5
+"145","deletion","pvdR","cell_wall_membrane_biogenesis","M","Barrel-sandwich domain of CusB or HlyD membrane-fusion",5
+"146","deletion","pvdS","transcription","K","Sigma-70, region 4",5
+"147","deletion","pyrG2","nucleotide_metabolism","F","Glutamine amidotransferase class-I",1
+"148","deletion","qseB","signal_transduction","T","Transcriptional regulatory protein, C terminal",1
+"149","deletion","qseC","signal_transduction","T","Two-component sensor kinase N-terminal",1
+"150","deletion","sdaA","amino_acid_metabolism","E","Serine dehydratase beta chain",4
+"151","deletion","shlB","intracellular_transport","U","POTRA domain",3
+"152","deletion","slsA","secondary_metabolites","Q","Isochorismatase family",6
+"153","deletion","sndH","carbohydrate_metabolism","G","Glucose / Sorbosone dehydrogenase",6
+"154","deletion","soxA","energy","C","Luciferase-like monooxygenase",3
+"155","deletion","soxR","transcription","K","helix_turn_helix, mercury resistance",1
+"156","deletion","sqrdl","function_unknown","S","Pyridine nucleotide-disulphide oxidoreductase",3
+"157","deletion","ssuD","energy","C","Catalyzes the desulfonation of aliphatic sulfonates",3
+"158","deletion","syrP","secondary_metabolites","Q","Taurine catabolism dioxygenase TauD, TfdA family",1
+"159","deletion","tauA","inorganic_ion_metabolism","P","NMT1-like family",1
+"160","deletion","tauD","secondary_metabolites","Q","Taurine catabolism dioxygenase TauD, TfdA family",2
+"161","deletion","treA","carbohydrate_metabolism","G","Provides the cells with the ability to utilize trehalose at high osmolarity by splitting it into glucose molecules that can subsequently be taken up by the phosphotransferase-mediated uptake system",6
+"162","deletion","tssF","function_unknown","S","Type VI secretion system, TssF",4
+"163","deletion","tssG","function_unknown","S","Type VI secretion, TssG",4
+"164","deletion","vasE","function_unknown","S","Bacterial Type VI secretion, VC_A0110, EvfL, ImpJ, VasE",2
+"165","deletion","vgrG","function_unknown","S","Gp5 C-terminal repeat (3 copies)",4
+"166","deletion","vipA","function_unknown","S","Type VI secretion system, VipA, VC_A0107 or Hcp2",3
+"167","deletion","xylB","carbohydrate_metabolism","G","FGGY family of carbohydrate kinases, N-terminal domain",3
+"168","deletion","yahK","energy","C","Alcohol dehydrogenase GroES-like domain",1
+"169","deletion","ydcN","transcription","K","Helix-turn-helix XRE-family like proteins",1
+"170","deletion","yfeW","defense","V","COG1680 Beta-lactamase class C and other penicillin binding proteins",2
+"171","deletion","yhbW","energy","C","Luciferase-like monooxygenase",1
+"172","deletion","yhhW_1","function_unknown","S","Pirin C-terminal cupin domain",6
+"173","deletion","yijO","transcription","K","transcriptional regulator",3
+"174","deletion","yncD","inorganic_ion_metabolism","P","TonB-dependent Receptor Plug Domain",1
+"175","deletion","yqhC","transcription","K","AraC-type transcriptional regulator N-terminus",1
+"176","deletion","yrhB","function_unknown","S","Immunity protein 35",3
+"177","deletion","ZnuA","inorganic_ion_metabolism","P","Zinc-uptake complex component A periplasmic",5
+"178","deletion","znuC","inorganic_ion_metabolism","P","ATPases associated with a variety of cellular activities",6
+"179","duplication","-","amino_acid_metabolism","E","Alanine racemase, N-terminal domain",1
+"180","duplication","-","amino_acid_metabolism","E","Amino acid permease",1
+"181","duplication","-","amino_acid_metabolism","E","Bacterial extracellular solute-binding proteins, family 5 Middle",1
+"182","duplication","-","amino_acid_metabolism","E","Belongs to the class-III pyridoxal-phosphate-dependent aminotransferase family",1
+"183","duplication","-","amino_acid_metabolism","E","Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily",1
+"184","duplication","-","amino_acid_metabolism","E","glycine betaine",1
+"185","duplication","-","carbohydrate_metabolism","G","Major Facilitator Superfamily",1
+"186","duplication","-","carbohydrate_metabolism","G","Major facilitator superfamily",1
+"187","duplication","-","cell_cycle","D","Activator of cell division through the inhibition of FtsZ GTPase activity, therefore promoting FtsZ assembly into bundles of protofilaments necessary for the formation of the division Z ring. It is recruited early at mid-cell but it is not essential for cell division",1
+"188","duplication","-","cell_wall_membrane_biogenesis","M","Bacterial extracellular solute-binding proteins, family 3",1
+"189","duplication","-","cell_wall_membrane_biogenesis","M","Belongs to the mandelate racemase muconate lactonizing enzyme family",1
+"190","duplication","-","cell_wall_membrane_biogenesis","M","Carbohydrate-selective porin, OprB family",1
+"191","duplication","-","cell_wall_membrane_biogenesis","M","Extracellular nuclease",1
+"192","duplication","-","cell_wall_membrane_biogenesis","M","Murein transglycosylase",1
+"193","duplication","-","cell_wall_membrane_biogenesis","M","NmrA-like family",1
+"194","duplication","-","cell_wall_membrane_biogenesis","M","Peptidase family M23",1
+"195","duplication","-","cell_wall_membrane_biogenesis","M","Protein of unknown function (DUF1302)",1
+"196","duplication","-","cell_wall_membrane_biogenesis","M","Secretion Protein",1
+"197","duplication","-","defense","V","ABC transporter",1
+"198","duplication","-","defense","V","ATPases associated with a variety of cellular activities",1
+"199","duplication","-","defense","V","MacB-like periplasmic core domain",1
+"200","duplication","-","DNA_replication_repair","L","Belongs to the DNA glycosylase MPG family",1
+"201","duplication","-","energy","C","Acetyl-CoA hydrolase/transferase C-terminal domain",1
+"202","duplication","-","energy","C","Cytochrome C oxidase, cbb3-type, subunit III",1
+"203","duplication","-","energy","C","D-arabinono-1,4-lactone oxidase",1
+"204","duplication","-","energy","C","Nitroreductase family",1
+"205","duplication","-","energy","C","Oxidoreductase NAD-binding domain",1
+"206","duplication","-","energy","C","Putative MetA-pathway of phenol degradation",1
+"207","duplication","-","energy","C","Rubredoxin",1
+"208","duplication","-","energy","C","molybdopterin cofactor binding",1
+"209","duplication","-","energy","C","monooxygenase",1
+"210","duplication","-","energy","C","nitric oxide dioxygenase activity",1
+"211","duplication","-","function_unknown","S","ABC-2 family transporter protein",1
+"212","duplication","-","function_unknown","S","ATP-dependent protease La (LON) substrate-binding domain",1
+"213","duplication","-","function_unknown","S","Bacterial protein of unknown function (DUF934)",1
+"214","duplication","-","function_unknown","S","Belongs to the UPF0250 family",1
+"215","duplication","-","function_unknown","S","Beta-lactamase superfamily domain",1
+"216","duplication","-","function_unknown","S","Cupin 2, conserved barrel",1
+"217","duplication","-","function_unknown","S","DUF218 domain",1
+"218","duplication","-","function_unknown","S","Dicarboxylate transport",1
+"219","duplication","-","function_unknown","S","Domain of unknown function",1
+"220","duplication","-","function_unknown","S","Domain of unknown function (DUF4340)",1
+"221","duplication","-","function_unknown","S","Domain of unknown function (DUF4870)",1
+"222","duplication","-","function_unknown","S","Endonuclease/Exonuclease/phosphatase family",1
+"223","duplication","-","function_unknown","S","Family of unknown function (DUF1028)",1
+"224","duplication","-","function_unknown","S","HI0933-like protein",1
+"225","duplication","-","function_unknown","S","Mediates coordination of peptidoglycan synthesis and outer membrane constriction during cell division",1
+"226","duplication","-","function_unknown","S","Membrane fusogenic activity",1
+"227","duplication","-","function_unknown","S","Metal-chelation protein CHAD",1
+"228","duplication","-","function_unknown","S","NYN domain",1
+"229","duplication","-","function_unknown","S","Peptidase C13 family",1
+"230","duplication","-","function_unknown","S","Pfam Transposase IS66",1
+"231","duplication","-","function_unknown","S","Polyribonucleotide nucleotidyltransferase",1
+"232","duplication","-","function_unknown","S","Protein of unknown function (DUF1348)",1
+"233","duplication","-","function_unknown","S","Protein of unknown function (DUF1375)",1
+"234","duplication","-","function_unknown","S","Protein of unknown function (DUF2474)",1
+"235","duplication","-","function_unknown","S","Protein of unknown function (DUF2788)",1
+"236","duplication","-","function_unknown","S","Protein of unknown function (DUF3142)",1
+"237","duplication","-","function_unknown","S","Protein of unknown function (DUF3156)",1
+"238","duplication","-","function_unknown","S","Protein of unknown function (DUF3299)",2
+"239","duplication","-","function_unknown","S","Protein of unknown function (DUF861)",1
+"240","duplication","-","function_unknown","S","Secreted repeat of unknown function",1
+"241","duplication","-","function_unknown","S","Short repeat of unknown function (DUF308)",1
+"242","duplication","-","function_unknown","S","Sulphur transport",1
+"243","duplication","-","function_unknown","S","Thioesterase-like superfamily",1
+"244","duplication","-","function_unknown","S","Transglycosylase associated protein",1
+"245","duplication","-","function_unknown","S","Uncharacterised protein family (UPF0259)",1
+"246","duplication","-","function_unknown","S","Uncharacterized protein conserved in bacteria (DUF2218)",1
+"247","duplication","-","function_unknown","S","gag-polyprotein putative aspartyl protease",1
+"248","duplication","-","function_unknown","S","periplasmic protein",1
+"249","duplication","-","inorganic_ion_metabolism","P","Heme oxygenase",1
+"250","duplication","-","inorganic_ion_metabolism","P","L-lysine 6-monooxygenase (NADPH-requiring)",1
+"251","duplication","-","inorganic_ion_metabolism","P","Protein of unknown function (DUF2796)",1
+"252","duplication","-","inorganic_ion_metabolism","P","Vanillate O-demethylase, oxygenase subunit",1
+"253","duplication","-","lipid_metabolism","I","ATP-NAD kinase",1
+"254","duplication","-","lipid_metabolism","I","Acid phosphatase homologues",1
+"255","duplication","-","lipid_metabolism","I","Alpha/beta hydrolase family",2
+"256","duplication","-","lipid_metabolism","I","MaoC like domain",1
+"257","duplication","-","lipid_metabolism","I","Phospholipase D. Active site motifs.",1
+"258","duplication","-","lipid_metabolism","I","SCP-2 sterol transfer family",1
+"259","duplication","-","secondary_metabolites","Q","AA-adenyl-dom amino acid adenylation domain protein",1
+"260","duplication","-","secondary_metabolites","Q","Isochorismatase family",1
+"261","duplication","-","secondary_metabolites","Q","Leucine carboxyl methyltransferase",1
+"262","duplication","-","secondary_metabolites","Q","Thioesterase superfamily",2
+"263","duplication","-","secondary_metabolites","Q","methyltransferase",1
+"264","duplication","-","signal_transduction","T","7TM diverse intracellular signalling",1
+"265","duplication","-","signal_transduction","T","Aminoacyl-tRNA editing domain",1
+"266","duplication","-","signal_transduction","T","CHASE2",1
+"267","duplication","-","signal_transduction","T","Diguanylate cyclase",1
+"268","duplication","-","signal_transduction","T","Domain of unknown function (DUF3391)",1
+"269","duplication","-","signal_transduction","T","Histidine Phosphotransfer domain",1
+"270","duplication","-","signal_transduction","T","Histidine kinase",1
+"271","duplication","-","signal_transduction","T","Low molecular weight phosphatase family",1
+"272","duplication","-","signal_transduction","T","Putative diguanylate phosphodiesterase",2
+"273","duplication","-","signal_transduction","T","Transcriptional regulatory protein, C terminal",1
+"274","duplication","-","signal_transduction","T","cheY-homologous receiver domain",1
+"275","duplication","-","signal_transduction","T","helix_turn_helix, Lux Regulon",2
+"276","duplication","-","transcription","K","Acetyltransferase (GNAT) domain",2
+"277","duplication","-","transcription","K","Alanine-glyoxylate amino-transferase",1
+"278","duplication","-","transcription","K","AraC-binding-like domain",2
+"279","duplication","-","transcription","K","AraC-like ligand binding domain",1
+"280","duplication","-","transcription","K","Arabinose-binding domain of AraC transcription regulator, N-term",1
+"281","duplication","-","transcription","K","Bacterial regulatory proteins, tetR family",1
+"282","duplication","-","transcription","K","Helix-turn-helix XRE-family like proteins",1
+"283","duplication","-","transcription","K","LysR substrate binding domain",3
+"284","duplication","-","transcription","K","PFAM regulatory protein LuxR",1
+"285","duplication","-","transcription","K","Transcriptional regulator",1
+"286","duplication","-","transcription","K","helix_turn_helix gluconate operon transcriptional repressor",1
+"287","duplication","-","transcription","K","helix_turn_helix, Lux Regulon",2
+"288","duplication","-","transcription","K","helix_turn_helix, arabinose operon control protein",1
+"289","duplication","-","translation","J","Acetyltransferase (GNAT) domain",3
+"290","duplication","-","translation","J","Belongs to the aminoglycoside phosphotransferase family",1
+"291","duplication","acoA","energy","C","dehydrogenase, E1 component",1
+"292","duplication","acoB","energy","C","COG0022 Pyruvate 2-oxoglutarate dehydrogenase complex, dehydrogenase (E1) component, eukaryotic type, beta subunit",1
+"293","duplication","acoC","energy","C","acetoin dehydrogenase",1
+"294","duplication","adh","energy","C","Dehydrogenase",1
+"295","duplication","adhA","function_unknown","S","Alcohol dehydrogenase GroES-like domain",1
+"296","duplication","aes","lipid_metabolism","I","alpha/beta hydrolase fold",1
+"297","duplication","aidB","lipid_metabolism","I","acyl-CoA dehydrogenase",1
+"298","duplication","aldA1","energy","C","Belongs to the aldehyde dehydrogenase family",1
+"299","duplication","aldH","energy","C","belongs to the aldehyde dehydrogenase family",1
+"300","duplication","alkJ","amino_acid_metabolism","E","GMC oxidoreductase",1
+"301","duplication","alr","amino_acid_metabolism","E","Catalyzes the interconversion of L-alanine and D- alanine. May also act on other amino acids",1
+"302","duplication","amn","nucleotide_metabolism","F","Catalyzes the hydrolysis of the N-glycosidic bond of AMP to form adenine and ribose 5-phosphate. Involved in regulation of AMP concentrations",1
+"303","duplication","ampC","defense","V","Beta-lactamase",1
+"304","duplication","ampR","transcription","K","LysR substrate binding domain",1
+"305","duplication","amtB","inorganic_ion_metabolism","P","Ammonium Transporter Family",1
+"306","duplication","aptA","amino_acid_metabolism","E","Aminotransferase class-III",1
+"307","duplication","aqpZ","carbohydrate_metabolism","G","Major intrinsic protein",1
+"308","duplication","argB","amino_acid_metabolism","E","Belongs to the acetylglutamate kinase family. ArgB subfamily",1
+"309","duplication","argE","amino_acid_metabolism","E","Peptidase dimerisation domain",1
+"310","duplication","aspA","amino_acid_metabolism","E","Aspartate ammonia-lyase",1
+"311","duplication","atoB","lipid_metabolism","I","Catalyzes the synthesis of acetoacetyl coenzyme A from two molecules of acetyl coenzyme A. It can also act as a thiolase, catalyzing the reverse reaction and generating two-carbon units from the four-carbon product of fatty acid oxidation",1
+"312","duplication","ats","transcription","K","Acetyltransferase (GNAT) domain",1
+"313","duplication","betA","amino_acid_metabolism","E","Involved in the biosynthesis of the osmoprotectant glycine betaine. Catalyzes the oxidation of choline to betaine aldehyde and betaine aldehyde to glycine betaine at the same rate",1
+"314","duplication","betB","energy","C","Involved in the biosynthesis of the osmoprotectant glycine betaine. Catalyzes the reversible oxidation of betaine aldehyde to the corresponding acid",1
+"315","duplication","betI","transcription","K","Repressor involved in choline regulation of the bet genes",1
+"316","duplication","betT","cell_wall_membrane_biogenesis","M","BCCT, betaine/carnitine/choline family transporter",2
+"317","duplication","betT","intracellular_transport","U","BCCT, betaine/carnitine/choline family transporter",1
+"318","duplication","bphP","signal_transduction","T","Phytochrome region",1
+"319","duplication","btuF","inorganic_ion_metabolism","P","Periplasmic binding protein",1
+"320","duplication","ccoG","energy","C","IG-like fold at C-terminal of FixG, putative oxidoreductase",1
+"321","duplication","ccoN","energy","C","Belongs to the heme-copper respiratory oxidase family",1
+"322","duplication","cdhB","function_unknown","S","Thioesterase-like superfamily",1
+"323","duplication","cdhC","function_unknown","S","beta-keto acid cleavage enzyme",1
+"324","duplication","cdhR","transcription","K","DJ-1/PfpI family",1
+"325","duplication","cho","energy","C","Cholesterol oxidase, substrate-binding",1
+"326","duplication","choV","amino_acid_metabolism","E","ATPases associated with a variety of cellular activities",1
+"327","duplication","choW","intracellular_transport","U","Binding-protein-dependent transport system inner membrane component",1
+"328","duplication","choX","amino_acid_metabolism","E","Substrate binding domain of ABC-type glycine betaine transport system",1
+"329","duplication","cioA","energy","C","oxidase, subunit",1
+"330","duplication","cioB","energy","C","oxidase, subunit",1
+"331","duplication","clsA","lipid_metabolism","I","Catalyzes the reversible phosphatidyl group transfer from one phosphatidylglycerol molecule to another to form cardiolipin (CL) (diphosphatidylglycerol) and glycerol",1
+"332","duplication","coaBC","coenzyme_metabolism","H","Catalyzes two steps in the biosynthesis of coenzyme A. In the first step cysteine is conjugated to 4'-phosphopantothenate to form 4-phosphopantothenoylcysteine, in the latter compound is decarboxylated to form 4'-phosphopantotheine",1
+"333","duplication","comM","protein_modification_chaperones","O","Magnesium chelatase, subunit ChlI C-terminal",1
+"334","duplication","copA","inorganic_ion_metabolism","P","Heavy-metal-associated domain",1
+"335","duplication","corC","inorganic_ion_metabolism","P","Transporter associated domain",1
+"336","duplication","crc","DNA_replication_repair","L","Endonuclease/Exonuclease/phosphatase family",1
+"337","duplication","cupB5","intracellular_transport","U","adhes_NPXG filamentous hemagglutinin family N-terminal domain protein",1
+"338","duplication","cvaB","defense","V","COG2274 ABC-type bacteriocin lantibiotic exporters, contain an N-terminal double-glycine peptidase domain",1
+"339","duplication","cycB","energy","C","Cytochrome C oxidase, cbb3-type, subunit III",1
+"340","duplication","cysI","energy","C","Component of the sulfite reductase complex that catalyzes the 6-electron reduction of sulfite to sulfide. This is one of several activities required for the biosynthesis of L- cysteine from sulfate",1
+"341","duplication","dacA","cell_wall_membrane_biogenesis","M","Penicillin-binding protein 5, C-terminal domain",1
+"342","duplication","dadA","amino_acid_metabolism","E","Oxidative deamination of D-amino acids",1
+"343","duplication","dedA","function_unknown","S","SNARE associated Golgi protein",1
+"344","duplication","dgcA","energy","C","NADH:flavin oxidoreductase / NADH oxidase family",1
+"345","duplication","dgcB","energy","C","Domain of unknown function (DUF3483)",1
+"346","duplication","dut","nucleotide_metabolism","F","This enzyme is involved in nucleotide metabolism it produces dUMP, the immediate precursor of thymidine nucleotides and it decreases the intracellular concentration of dUTP so that uracil cannot be incorporated into DNA",1
+"347","duplication","dxs","coenzyme_metabolism","H","Catalyzes the acyloin condensation reaction between C atoms 2 and 3 of pyruvate and glyceraldehyde 3-phosphate to yield 1-deoxy-D-xylulose-5-phosphate (DXP)",1
+"348","duplication","eamA","function_unknown","S","Membrane",1
+"349","duplication","eamB","amino_acid_metabolism","E","LysE type translocator",1
+"350","duplication","eat","amino_acid_metabolism","E","Amino acid permease",1
+"351","duplication","etfA-1","energy","C","Electron transfer flavoprotein",1
+"352","duplication","etfB-1","energy","C","Electron transfer flavoprotein",1
+"353","duplication","eutB","amino_acid_metabolism","E","Ethanolamine ammonia-lyase, large subunit",1
+"354","duplication","eutC","amino_acid_metabolism","E","Ethanolamine ammonia-lyase light chain (EutC)",1
+"355","duplication","fdhA","amino_acid_metabolism","E","Alanine dehydrogenase/PNT, C-terminal domain",1
+"356","duplication","feaB","energy","C","Aldehyde dehydrogenase family",1
+"357","duplication","fecR","function_unknown","S","FecR protein",1
+"358","duplication","fieF","inorganic_ion_metabolism","P","Belongs to the cation diffusion facilitator (CDF) transporter (TC 2.A.4) family",1
+"359","duplication","gbcA","inorganic_ion_metabolism","P","Ring hydroxylating alpha subunit (catalytic domain)",1
+"360","duplication","gbcB","energy","C","Oxidoreductase FAD-binding domain",1
+"361","duplication","gbdR","transcription","K","DJ-1/PfpI family",1
+"362","duplication","glcC","transcription","K","FCD",1
+"363","duplication","glcD","energy","C","Glycolate oxidase subunit GlcD",1
+"364","duplication","glcE","energy","C","FAD binding domain",1
+"365","duplication","glcF","energy","C","4Fe-4S dicluster domain",1
+"366","duplication","glcG","function_unknown","S","Haem-degrading",1
+"367","duplication","glnK","transcription","K","nitrogen regulatory protein P-II",1
+"368","duplication","glyA3","amino_acid_metabolism","E","Catalyzes the reversible interconversion of serine and glycine with tetrahydrofolate (THF) serving as the one-carbon carrier. This reaction serves as the major source of one-carbon groups required for the biosynthesis of purines, thymidylate, methionine, and other important biomolecules. Also exhibits THF- independent aldolase activity toward beta-hydroxyamino acids, producing glycine and aldehydes, via a retro-aldol mechanism",1
+"369","duplication","gmk","nucleotide_metabolism","F","Essential for recycling GMP and indirectly, cGMP",1
+"370","duplication","HA62_24390","function_unknown","S","V4R",1
+"371","duplication","HA62_24395","amino_acid_metabolism","E","Membrane dipeptidase (Peptidase family M19)",1
+"372","duplication","hemL","coenzyme_metabolism","H","Aminotransferase class-III",1
+"373","duplication","hexR3","transcription","K","Helix-turn-helix domain, rpiR family",1
+"374","duplication","holA","DNA_replication_repair","L","Processivity clamp loader gamma complex DNA pol III C-term",1
+"375","duplication","hpaA","transcription","K","4-hydroxyphenylacetate catabolism regulatory protein hpaA",1
+"376","duplication","hpaB","secondary_metabolites","Q","4-hydroxyphenylacetate 3-monooxygenase oxygenase component",1
+"377","duplication","hpaC","function_unknown","S","Flavin reductase like domain",1
+"378","duplication","hpaD","function_unknown","S","3,4-dihydroxyphenylacetate 2,3-dioxygenase",1
+"379","duplication","hpaE","energy","C","belongs to the aldehyde dehydrogenase family",1
+"380","duplication","hpaG","secondary_metabolites","Q","Fumarylacetoacetate (FAA) hydrolase family",1
+"381","duplication","hpaG1","secondary_metabolites","Q","isomerase",1
+"382","duplication","hpaH","secondary_metabolites","Q","hydratase",1
+"383","duplication","hpaI","carbohydrate_metabolism","G","Belongs to the HpcH HpaI aldolase family",1
+"384","duplication","hpaR","transcription","K","Homoprotocatechuate degradative operon repressor",1
+"385","duplication","hpcD","amino_acid_metabolism","E","5-carboxymethyl-2-hydroxymuconate isomerase",1
+"386","duplication","hrpB","DNA_replication_repair","L","ATP-dependent helicase",1
+"387","duplication","hupA","DNA_replication_repair","L","Histone-like DNA-binding protein which is capable of wrapping DNA to stabilize it, and thus to prevent its denaturation under extreme environmental conditions",1
+"388","duplication","hupN","DNA_replication_repair","L","Belongs to the bacterial histone-like protein family",1
+"389","duplication","ispA","coenzyme_metabolism","H","Belongs to the FPP GGPP synthase family",1
+"390","duplication","IV02_05570","translation","J","Endoribonuclease L-PSP",1
+"391","duplication","IV02_13580","function_unknown","S","Protein of unknown function (DUF1329)",1
+"392","duplication","IV02_24375","transcription","K","LysR substrate binding domain",1
+"393","duplication","IV02_29580","cell_wall_membrane_biogenesis","M","Catalyzes the reduction of dTDP-6-deoxy-L-lyxo-4- hexulose to yield dTDP-L-rhamnose",1
+"394","duplication","IV02_29925","function_unknown","S","Domain of unknown function (DUF1820)",1
+"395","duplication","lcdH","lipid_metabolism","I","Catalyzes the NAD( )-dependent oxidation of L-carnitine to 3-dehydrocarnitine",1
+"396","duplication","leuS","translation","J","Leucyl-tRNA synthetase, Domain 2",1
+"397","duplication","lipA","coenzyme_metabolism","H","Catalyzes the radical-mediated insertion of two sulfur atoms into the C-6 and C-8 positions of the octanoyl moiety bound to the lipoyl domains of lipoate-dependent enzymes, thereby converting the octanoylated domains into lipoylated derivatives",1
+"398","duplication","lipB","coenzyme_metabolism","H","Catalyzes the transfer of endogenously produced octanoic acid from octanoyl-acyl-carrier-protein onto the lipoyl domains of lipoate-dependent enzymes. Lipoyl-ACP can also act as a substrate although octanoyl-ACP is likely to be the physiological substrate",1
+"399","duplication","lnt","cell_wall_membrane_biogenesis","M","Transfers the fatty acyl group on membrane lipoproteins",1
+"400","duplication","lptE","cell_wall_membrane_biogenesis","M","Together with LptD, is involved in the assembly of lipopolysaccharide (LPS) at the surface of the outer membrane. Required for the proper assembly of LptD. Binds LPS and may serve as the LPS recognition site at the outer membrane",1
+"401","duplication","lrgA","function_unknown","S","LrgA family",1
+"402","duplication","lrp","transcription","K","AsnC-type helix-turn-helix domain",1
+"403","duplication","lrp_2","transcription","K","helix_turn_helix ASNC type",1
+"404","duplication","ltaE","amino_acid_metabolism","E","Catalyzes the cleavage of L-allo-threonine and L- threonine to glycine and acetaldehyde",1
+"405","duplication","lysE","amino_acid_metabolism","E","LysE type translocator",1
+"406","duplication","metQ-2","inorganic_ion_metabolism","P","NLPA lipoprotein",1
+"407","duplication","miaB","translation","J","Catalyzes the methylthiolation of N6- (dimethylallyl)adenosine (i(6)A), leading to the formation of 2- methylthio-N6-(dimethylallyl)adenosine (ms(2)i(6)A) at position 37 in tRNAs that read codons beginning with uridine",1
+"408","duplication","mltB","cell_wall_membrane_biogenesis","M","Transglycosylase SLT domain",1
+"409","duplication","moaB","coenzyme_metabolism","H","May be involved in the biosynthesis of molybdopterin",1
+"410","duplication","moaC","coenzyme_metabolism","H","Catalyzes the conversion of (8S)-3',8-cyclo-7,8- dihydroguanosine 5'-triphosphate to cyclic pyranopterin monophosphate (cPMP)",1
+"411","duplication","moaD","coenzyme_metabolism","H","ThiS family",1
+"412","duplication","moaE","coenzyme_metabolism","H","MoaE protein",1
+"413","duplication","moaF","function_unknown","S","MoaF C-terminal domain",1
+"414","duplication","moeA1","coenzyme_metabolism","H","MoeA C-terminal region (domain IV)",1
+"415","duplication","mpl","cell_wall_membrane_biogenesis","M","Reutilizes the intact tripeptide L-alanyl-gamma-D- glutamyl-meso-diaminopimelate by linking it to UDP-N- acetylmuramate",1
+"416","duplication","mrdA","cell_wall_membrane_biogenesis","M","Catalyzes cross-linking of the peptidoglycan cell wall",1
+"417","duplication","mrdB","cell_wall_membrane_biogenesis","M","Peptidoglycan polymerase that is essential for cell wall elongation",1
+"418","duplication","mtfA","energy","C","Belongs to the MtfA family",1
+"419","duplication","mtr","amino_acid_metabolism","E","Tryptophan/tyrosine permease family",1
+"420","duplication","nadD","coenzyme_metabolism","H","Catalyzes the reversible adenylation of nicotinate mononucleotide (NaMN) to nicotinic acid adenine dinucleotide (NaAD)",1
+"421","duplication","norM","defense","V","MatE",1
+"422","duplication","nrdR","transcription","K","Negatively regulates transcription of bacterial ribonucleotide reductase nrd genes and operons by binding to NrdR- boxes",1
+"423","duplication","nusB","transcription","K","Involved in transcription antitermination. Required for transcription of ribosomal RNA (rRNA) genes. Binds specifically to the boxA antiterminator sequence of the ribosomal RNA (rrn) operons",1
+"424","duplication","oadA","energy","C","Conserved carboxylase domain",1
+"425","duplication","oliA","function_unknown","S","OPT oligopeptide transporter protein",1
+"426","duplication","ompW","cell_wall_membrane_biogenesis","M","OmpW family",1
+"427","duplication","oprD","function_unknown","S","outer membrane porin, OprD family",1
+"428","duplication","ordL","amino_acid_metabolism","E","FAD dependent oxidoreductase",1
+"429","duplication","oxyR","transcription","K","LysR substrate binding domain",1
+"430","duplication","pchP","amino_acid_metabolism","E","Phosphorylcholine phosphatase",1
+"431","duplication","pgp","function_unknown","S","HAD-hyrolase-like",1
+"432","duplication","pgpA","lipid_metabolism","I","Lipid phosphatase which dephosphorylates phosphatidylglycerophosphate (PGP) to phosphatidylglycerol (PG)",1
+"433","duplication","phoB","transcription","K","phosphate regulon transcriptional regulatory protein PhoB",1
+"434","duplication","phoD2","inorganic_ion_metabolism","P","Alkaline phosphatase",1
+"435","duplication","phoH2","signal_transduction","T","Large family of predicted nucleotide-binding domains",1
+"436","duplication","phoR","signal_transduction","T","Domain of unknown function (DUF3329)",1
+"437","duplication","phoU","inorganic_ion_metabolism","P","Plays a role in the regulation of phosphate uptake",1
+"438","duplication","ppa","energy","C","Catalyzes the hydrolysis of inorganic pyrophosphate (PPi) forming two phosphate ions",1
+"439","duplication","prmA","function_unknown","S","Lysine methyltransferase",1
+"440","duplication","proA","amino_acid_metabolism","E","Catalyzes the NADPH-dependent reduction of L-glutamate 5-phosphate into L-glutamate 5-semialdehyde and phosphate. The product spontaneously undergoes cyclization to form 1-pyrroline-5- carboxylate",1
+"441","duplication","pstA","inorganic_ion_metabolism","P","Phosphate transport system permease protein PstA",1
+"442","duplication","pstB","inorganic_ion_metabolism","P","Part of the ABC transporter complex PstSACB involved in phosphate import. Responsible for energy coupling to the transport system",1
+"443","duplication","pstC","inorganic_ion_metabolism","P","Binding-protein-dependent transport system inner membrane component",1
+"444","duplication","pstS","inorganic_ion_metabolism","P","PBP superfamily domain",1
+"445","duplication","purE","nucleotide_metabolism","F","Catalyzes the conversion of N5-carboxyaminoimidazole ribonucleotide (N5-CAIR) to 4-carboxy-5-aminoimidazole ribonucleotide (CAIR)",1
+"446","duplication","purK","nucleotide_metabolism","F","Catalyzes the ATP-dependent conversion of 5- aminoimidazole ribonucleotide (AIR) and HCO(3)(-) to N5- carboxyaminoimidazole ribonucleotide (N5-CAIR)",1
+"447","duplication","purU","nucleotide_metabolism","F","Catalyzes the hydrolysis of 10-formyltetrahydrofolate (formyl-FH4) to formate and tetrahydrofolate (FH4)",1
+"448","duplication","puuR","transcription","K","Cupin domain",1
+"449","duplication","pycA","lipid_metabolism","I","Catalyzes the ATP-dependent carboxylation of a covalently attached biotin and the transfer of the carboxyl group to pyruvate forming oxaloacetate",1
+"450","duplication","pyrE","nucleotide_metabolism","F","Catalyzes the transfer of a ribosyl phosphate group from 5-phosphoribose 1-diphosphate to orotate, leading to the formation of orotidine monophosphate (OMP)",1
+"451","duplication","radC","amino_acid_metabolism","E","Belongs to the UPF0758 family",1
+"452","duplication","recG","DNA_replication_repair","L","Critical role in recombination and DNA repair. Helps process Holliday junction intermediates to mature products by catalyzing branch migration. Has a DNA unwinding activity characteristic of a DNA helicase with a 3'- to 5'- polarity. Unwinds branched duplex DNA (Y-DNA)",1
+"453","duplication","rep","DNA_replication_repair","L","it can initiate unwinding at a nick in the DNA. It binds to the single-stranded DNA and acts in a progressive fashion along the DNA in the 3' to 5' direction",1
+"454","duplication","ribA","coenzyme_metabolism","H","Catalyzes the conversion of GTP to 2,5-diamino-6- ribosylamino-4(3H)-pyrimidinone 5'-phosphate (DARP), formate and pyrophosphate",1
+"455","duplication","ribB","coenzyme_metabolism","H","Catalyzes the conversion of D-ribulose 5-phosphate to formate and 3,4-dihydroxy-2-butanone 4-phosphate",1
+"456","duplication","ribD","coenzyme_metabolism","H","Converts 2,5-diamino-6-(ribosylamino)-4(3h)-pyrimidinone 5'-phosphate into 5-amino-6-(ribosylamino)-2,4(1h,3h)- pyrimidinedione 5'-phosphate",1
+"457","duplication","ribE","coenzyme_metabolism","H","Riboflavin synthase",1
+"458","duplication","ribH","coenzyme_metabolism","H","Catalyzes the formation of 6,7-dimethyl-8- ribityllumazine by condensation of 5-amino-6-(D- ribitylamino)uracil with 3,4-dihydroxy-2-butanone 4-phosphate. This is the penultimate step in the biosynthesis of riboflavin",1
+"459","duplication","rlmH","translation","J","Specifically methylates the pseudouridine at position 1915 (m3Psi1915) in 23S rRNA",1
+"460","duplication","rlpA","cell_wall_membrane_biogenesis","M","Lytic transglycosylase with a strong preference for naked glycan strands that lack stem peptides",1
+"461","duplication","rluE","carbohydrate_metabolism","G","Belongs to the pseudouridine synthase RsuA family",1
+"462","duplication","rph","translation","J","Phosphorolytic exoribonuclease that removes nucleotide residues following the -CCA terminus of tRNA and adds nucleotides to the ends of RNA molecules by using nucleoside diphosphates as substrates",1
+"463","duplication","rpmB","translation","J","Belongs to the bacterial ribosomal protein bL28 family",1
+"464","duplication","rpmG","translation","J","there are paralogous genes in several bacterial genomes, and a CXXC motif for zinc binding and an upstream regulation region of the paralog lacking this motif that are regulated by zinc",1
+"465","duplication","rpoZ","transcription","K","Promotes RNA polymerase assembly. Latches the N- and C- terminal regions of the beta' subunit thereby facilitating its interaction with the beta and alpha subunits",1
+"466","duplication","rsfS","translation","J","Functions as a ribosomal silencing factor. Interacts with ribosomal protein L14 (rplN), blocking formation of intersubunit bridge B8. Prevents association of the 30S and 50S ribosomal subunits and the formation of functional ribosomes, thus repressing translation",1
+"467","duplication","rubA","energy","C","Rubredoxin",1
+"468","duplication","rubB","energy","C","Pyridine nucleotide-disulphide oxidoreductase",1
+"469","duplication","scpC","energy","C","Citrate lyase, alpha subunit (CitF)",1
+"470","duplication","sdaA","amino_acid_metabolism","E","Serine dehydratase alpha chain",1
+"471","duplication","sel1","function_unknown","S","Sel1 repeat",1
+"472","duplication","sfnG","energy","C","Luciferase-like monooxygenase",1
+"473","duplication","sirB","function_unknown","S","Invasion gene expression up-regulator, SirB",1
+"474","duplication","soxA","energy","C","Belongs to the GcvT family",1
+"475","duplication","soxB","amino_acid_metabolism","E","Sarcosine oxidase",1
+"476","duplication","soxD","amino_acid_metabolism","E","Sarcosine oxidase, delta subunit family",1
+"477","duplication","soxG","amino_acid_metabolism","E","Sarcosine oxidase, gamma subunit family",1
+"478","duplication","tauA","inorganic_ion_metabolism","P","ABC transporter, phosphonate, periplasmic substrate-binding protein",1
+"479","duplication","tauB","inorganic_ion_metabolism","P","Part of the ABC transporter complex TauABC involved in taurine import. Responsible for energy coupling to the transport system",1
+"480","duplication","tauC","inorganic_ion_metabolism","P","Binding-protein-dependent transport system inner membrane component",1
+"481","duplication","tauD","secondary_metabolites","Q","Taurine catabolism dioxygenase TauD, TfdA family",1
+"482","duplication","tdcF","translation","J","Endoribonuclease L-PSP",1
+"483","duplication","tesB","lipid_metabolism","I","Acyl-CoA thioesterase",1
+"484","duplication","thiD","coenzyme_metabolism","H","Phosphomethylpyrimidine kinase",1
+"485","duplication","thiE","coenzyme_metabolism","H","Condenses 4-methyl-5-(beta-hydroxyethyl)thiazole monophosphate (THZ-P) and 2-methyl-4-amino-5-hydroxymethyl pyrimidine pyrophosphate (HMP-PP) to form thiamine monophosphate (TMP)",1
+"486","duplication","thiL","coenzyme_metabolism","H","Catalyzes the ATP-dependent phosphorylation of thiamine- monophosphate (TMP) to form thiamine-pyrophosphate (TPP), the active form of vitamin B1",1
+"487","duplication","tlyC_1","inorganic_ion_metabolism","P","Domain of unknown function DUF21",1
+"488","duplication","tyrS","translation","J","Catalyzes the attachment of tyrosine to tRNA(Tyr) in a two-step reaction tyrosine is first activated by ATP to form Tyr- AMP and then transferred to the acceptor end of tRNA(Tyr)",1
+"489","duplication","ubiA","coenzyme_metabolism","H","Catalyzes the prenylation of para-hydroxybenzoate (PHB) with an all-trans polyprenyl group. Mediates the second step in the final reaction sequence of ubiquinone-8 (UQ-8) biosynthesis, which is the condensation of the polyisoprenoid side chain with PHB, generating the first membrane-bound Q intermediate 3- octaprenyl-4-hydroxybenzoate",1
+"490","duplication","ubiC","coenzyme_metabolism","H","Removes the pyruvyl group from chorismate, with concomitant aromatization of the ring, to provide 4- hydroxybenzoate (4HB) for the ubiquinone pathway",1
+"491","duplication","ubiX","coenzyme_metabolism","H","Flavin prenyltransferase that catalyzes the synthesis of the prenylated FMN cofactor (prenyl-FMN) for 4-hydroxy-3- polyprenylbenzoic acid decarboxylase UbiD. The prenyltransferase is metal-independent and links a dimethylallyl moiety from dimethylallyl monophosphate (DMAP) to the flavin N5 and C6 atoms of FMN",1
+"492","duplication","uvrD","DNA_replication_repair","L","UvrD-like helicase C-terminal domain",1
+"493","duplication","viuA","inorganic_ion_metabolism","P","TonB dependent receptor",1
+"494","duplication","xpt","nucleotide_metabolism","F","Converts the preformed base xanthine, a product of nucleic acid breakdown, to xanthosine 5'-monophosphate (XMP), so it can be reused for RNA or DNA synthesis",1
+"495","duplication","xseB","DNA_replication_repair","L","Bidirectionally degrades single-stranded DNA into large acid-insoluble oligonucleotides, which are then degraded further into small acid-soluble oligonucleotides",1
+"496","duplication","yabJ_1","translation","J","Endoribonuclease L-PSP",1
+"497","duplication","yba2","function_unknown","S","Uncharacterized protein conserved in bacteria (DUF2076)",1
+"498","duplication","ybbN","protein_modification_chaperones","O","Thioredoxin",1
+"499","duplication","ybeY","translation","J","Single strand-specific metallo-endoribonuclease involved in late-stage 70S ribosome quality control and in maturation of the 3' terminus of the 16S rRNA",1
+"500","duplication","ybeZ","signal_transduction","T","PhoH-like protein",1
+"501","duplication","yciA","lipid_metabolism","I","Thioesterase superfamily",1
+"502","duplication","ydbL","function_unknown","S","Protein of unknown function (DUF1318)",1
+"503","duplication","ydcR","transcription","K","helix_turn_helix gluconate operon transcriptional repressor",1
+"504","duplication","yeaD","carbohydrate_metabolism","G","Belongs to the glucose-6-phosphate 1-epimerase family",1
+"505","duplication","yegQ","protein_modification_chaperones","O","Peptidase family U32 C-terminal domain",1
+"506","duplication","yeiE","transcription","K","LysR substrate binding domain",1
+"507","duplication","yeiH","function_unknown","S","Conserved hypothetical protein 698",1
+"508","duplication","ygdH","function_unknown","S","Domain of unknown function (DUF4478)",1
+"509","duplication","ygiM","signal_transduction","T","Bacterial SH3 domain homologues",1
+"510","duplication","yhbU","protein_modification_chaperones","O","Peptidase family U32",1
+"511","duplication","yhbV","protein_modification_chaperones","O","Peptidase family U32",1
+"512","duplication","yicC","function_unknown","S","Domain of unknown function (DUF1732)",1
+"513","duplication","yjbQ","function_unknown","S","Uncharacterised protein family UPF0047",1
+"514","duplication","ynbE","function_unknown","S","YnbE-like lipoprotein",1
+"515","duplication","yneJ","transcription","K","LysR substrate binding domain",1
+"516","duplication","yohK","cell_wall_membrane_biogenesis","M","LrgB-like family",1
+"517","duplication","yozG","transcription","K","transcriptional regulator",1
+"518","duplication","yphC","amino_acid_metabolism","E","Evidence 3 Function proposed based on presence of conserved amino acid motif, structural feature or limited homology",1
+"519","duplication","yscW","function_unknown","S","Type III secretion system lipoprotein chaperone (YscW)",1
+"520","duplication","zwf","carbohydrate_metabolism","G","Catalyzes the oxidation of glucose 6-phosphate to 6- phosphogluconolactone",1
