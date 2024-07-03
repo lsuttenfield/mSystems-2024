@@ -1,0 +1,11 @@
+Chromosome	OverlapRange	OverlapSequence	TotalSplits	TotalSplits_VirusCenter	RightSplits	LeftSplits	TotalConcordantSplits	TotalConcordantSplits_VirusCenter	TotalConcordantSenseVirusSplits	TotalConcordantAntisenseVirusSplits	RightConcordantSplits	LeftConcordantSplits
+1	1113435-1113439	GCGAG	2	0	2	0	2	0	2	0	2	0
+1	1628038-1628042	GCTGG	2	0	0	2	2	0	0	2	0	2
+1	29395-29399	GCCTG	2	0	2	0	0	0	0	0	0	0
+1	3897335-3897339	CCCGT	2	0	2	0	2	0	0	2	2	0
+1	4070046-4070050	CAGGG	3	0	3	0	3	0	3	0	3	0
+1	518933-518937	GGTAC	2	0	0	2	0	0	0	0	0	0
+1	5523227-5523231	CTGGC	2	0	0	2	0	0	0	0	0	0
+1	806165-806169	CCGAG	265	0	265	0	136	0	59	77	136	0
+1	826108-826112	AGCAG	250	0	0	250	115	0	0	115	0	115
+1	826109-826113	GCAGG	2	0	0	2	1	0	0	1	0	1

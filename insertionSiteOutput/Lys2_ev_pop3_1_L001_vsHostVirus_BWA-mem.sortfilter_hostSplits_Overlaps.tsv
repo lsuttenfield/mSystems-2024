@@ -1,0 +1,4 @@
+Chromosome	OverlapRange	OverlapSequence	TotalSplits	TotalSplits_VirusCenter	RightSplits	LeftSplits	TotalConcordantSplits	TotalConcordantSplits_VirusCenter	TotalConcordantSenseVirusSplits	TotalConcordantAntisenseVirusSplits	RightConcordantSplits	LeftConcordantSplits
+1	6188979-6188983	CAGCA	2	0	0	2	2	0	2	0	0	2
+1	806165-806169	CCGAG	152	0	152	0	76	0	34	42	76	0
+1	826108-826112	AGCAG	155	0	0	155	69	0	0	69	0	69
