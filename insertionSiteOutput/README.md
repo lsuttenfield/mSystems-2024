@@ -15,7 +15,7 @@ lifestyle.
 ## Structure of insertion sites in alignment
 
 Structure of Mu-like insertion: 
-
+```
 5' ----NNNNN*VIRUS_GENOME*NNNNN---- 3'
 
     Host    |    Virus   |   Host
@@ -27,7 +27,7 @@ Structure of insertion on the host alignment:
 5' ----NNNNN---- 3'
 5' ----Read1|    3' 
 5'    |Read2---- 3'
-
+```
 Therefore, one insertion needs at a minimum 2 reads to support it. In our lysogens we found a 
 persistent background of reads which suggested lysis. 
 
