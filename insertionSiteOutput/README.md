@@ -1,6 +1,7 @@
+```
 date: 07/03/24
 author: Laura Suttenfield
-
+```
 # Notes on host splits files. 
 
 These are outputs from the transposable-insertion-site-finder pipeline by J Cristobal Vera. 
@@ -30,6 +31,8 @@ Structure of insertion on the host alignment:
 ```
 Therefore, one insertion needs at a minimum 2 reads to support it. In our lysogens we found a 
 persistent background of reads which suggested lysis. 
+
+The raw reads of our isolates are available on NCBI BioProject # PRJNA1021667. 
 
 
 
